@@ -1,0 +1,4 @@
+https://www.instructables.com/id/Pulse-Sensor-With-Arduino-Tutorial/
+https://openhomeautomation.net/bluetooth-heart-rate-sensor-arduino
+https://github.com/openhomeautomation/bluetooth-pulse-rate-sensor
+https://www.dfrobot.com/wiki/index.php/Heart_Rate_Monitor_Sensor_SKU:_SEN0213
